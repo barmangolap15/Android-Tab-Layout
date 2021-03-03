@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/tab_layout"
+        android:layout_gravity="center"
+        android:textSize="25sp"
+        android:textColor="@color/black"/>
+</ScrollView>
+<!--    <LinearLayout-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:gravity="center"-->
+<!--        android:orientation="vertical">-->
+
+<!--        <Button-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:onClick="onClickDachshund"-->
+<!--            android:padding="20dp"-->
+<!--            android:text="Dachshund Indicator"-->
+<!--            android:textAllCaps="false" />-->
+
+<!--        <Button-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:onClick="onClickPointMove"-->
+<!--            android:padding="20dp"-->
+<!--            android:text="Point Move Indicator(Linear Interpolator)"-->
+<!--            android:textAllCaps="false" />-->
+
+<!--        <Button-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:onClick="onClickPointMoveAccelerate"-->
+<!--            android:padding="20dp"-->
+<!--            android:text="Point Move Indicator(Accelerate Interpolator)"-->
+<!--            android:textAllCaps="false" />-->
+
+<!--        <Button-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:onClick="onClickLineMove"-->
+<!--            android:padding="20dp"-->
+<!--            android:text="Line Move Indicator"-->
+<!--            android:textAllCaps="false" />-->
+
+<!--        <Button-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:onClick="onClickPointFade"-->
+<!--            android:padding="20dp"-->
+<!--            android:text="Point Fade Indicator"-->
+<!--            android:textAllCaps="false" />-->
+
+<!--        <Button-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:onClick="onClickLineFade"-->
+<!--            android:padding="20dp"-->
+<!--            android:text="Line Fade Indicator"-->
+<!--            android:textAllCaps="false" />-->
+
+<!--    </LinearLayout>-->
+
